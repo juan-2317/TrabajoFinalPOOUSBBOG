@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="Menu del Restaurante"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbAntipasto" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbCoctel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lbPorcionPapas" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="lbRollitosCanela" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbPrecio1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio4" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="lbPostres" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbEntradas" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbPudin" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbGelatina" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbArrozLeche" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPasteQueso" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbPrecio12" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio11" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio10" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio9" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="254" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lbPlatPrincipal" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbBebidas" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbLentejas" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbFrijoles" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbSalmon" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbChurrasco" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbGaseosas" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbCervezas" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbJugos" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbCopaVino" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbPrecio16" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio15" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio14" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio13" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio7" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio8" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio6" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio5" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="133" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="btnVolver" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbEntradas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPlatPrincipal" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="44" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="lbPrecio1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbChurrasco" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbAntipasto" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lbRollitosCanela" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="lbPrecio2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="lbSalmon" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbFrijoles" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPrecio3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbPorcionPapas" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbPrecio4" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbCoctel" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbLentejas" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lbPrecio5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lbPrecio6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lbPrecio7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lbPrecio8" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="86" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbPostres" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbBebidas" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbPudin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbGaseosas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio13" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbGelatina" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbCervezas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio14" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbArrozLeche" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbJugos" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio15" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbPasteQueso" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio12" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbCopaVino" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbPrecio16" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+              <Component id="btnVolver" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lbEntradas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entradas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbRollitosCanela">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rollitos de Canela:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbAntipasto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Antipasto:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPlatPrincipal">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plato Principal:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbChurrasco">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Churrasco con Yuca Frita:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPorcionPapas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Porci&#xf3;n de Papas Fritas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbSalmon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Salm&#xf3;n con Hierbas Finas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbLentejas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lentejas con Arroz y Papa Sudada:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbFrijoles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plato Corriente de Frijoles:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbCoctel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Coctel de Frutas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnVolver">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Volver"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnVolverActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="30000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="35000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="12000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="13000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPostres">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Postres:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPudin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pudin con Barquillos Piaza:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbGelatina">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gelatina con Galletas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbArrozLeche">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Arroz con Leche:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPasteQueso">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pastel de Queso:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2500"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3500"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbBebidas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bebidas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbGaseosas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gaseosas (Cualquier Sabor):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbCervezas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cervezas (Cualquier Marca):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbJugos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Jugos (Mango, Mora, Manzana):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbCopaVino">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Copa de Vino(Cualquier Sabor):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbPrecio16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3000"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
